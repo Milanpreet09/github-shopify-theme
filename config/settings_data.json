@@ -101,7 +101,7 @@
     "brand_description": "<p><\/p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/i.milan.gill\/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -111,7 +111,7 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_price": true,
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
@@ -183,8 +183,8 @@
       "scheme-5": {
         "settings": {
           "background": "#334fb4",
-          "background_gradient": "radial-gradient(rgba(175, 121, 121, 1), rgba(120, 196, 245, 1) 100%)",
-          "text": "#f3fb56",
+          "background_gradient": "radial-gradient(rgba(36, 40, 51, 1) 34%, rgba(255, 211, 211, 1) 78%)",
+          "text": "#121212",
           "button": "#ffffff",
           "button_label": "#f3fb56",
           "secondary_button_label": "#f3fb56",
