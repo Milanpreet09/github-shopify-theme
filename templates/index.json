@@ -20,6 +20,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/feet-1840619_640.jpg",
+        "image_2": "shopify:\/\/shop_images\/1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
