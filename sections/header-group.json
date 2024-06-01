@@ -43,10 +43,20 @@
         "enable_country_selector": true,
         "enable_language_selector": true
       }
+    },
+    "custom_liquid_R6EVHY": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<img src=\"https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector_343694-1365.jpg\" width=\"626\" height=\"626\" alt=\"Bird Colorful logo gradient vector\" class=\"_9zid0k3 _1286nb1h _1286nb1k _1286nb18f _1286nb13df _1286nb13jl _1286nb16 _1286nb19f\" sizes=\"(max-width: 480px) 100vw, (min-aspect-ratio: 626\/626) calc((100vh - 184px) * 1.000), (max-width: 1096px) calc(100vw - 40px), calc(100vw - 540px)\" srcset=\"https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…mac=7014f2b…&w=360 360w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…mac=7014f2b…&w=740 740w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…mac=7014f2b…&w=826 826w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…mac=7014f2b…&w=900 900w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…mac=7014f2b…&w=996 996w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…ac=7014f2b…&w=1060 1060w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…ac=7014f2b…&w=1380 1380w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…ac=7014f2b…&w=1480 1480w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…ac=7014f2b…&w=1800 1800w, https:\/\/img.freepik.com\/free-vector\/bird-colorful-logo-gradient-vector…ac=7014f2b…&w=2000 2000w\" style=\"max-width:calc((100vh - 184px) * 1.000)\" fetchpriority=\"high\">",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "header",
-    "announcement_bar_mkHtTx"
+    "announcement_bar_mkHtTx",
+    "custom_liquid_R6EVHY"
   ]
 }
